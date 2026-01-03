@@ -1,6 +1,6 @@
 #include <cassert>
 #include "Utils/Math.h"
-#include "Game/Character.h"
+#include "FightClubGame/Game/Character.h"
 
 int main()
 {
